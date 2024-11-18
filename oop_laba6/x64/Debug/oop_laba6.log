@@ -1,0 +1,10 @@
+﻿  MultiTypeContainer.cpp
+C:\Users\UserHome\source\repos\oop_laba6\oop_laba6\MultiTypeContainer.h(43,9): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\UserHome\source\repos\oop_laba6\oop_laba6\MultiTypeContainer.h(53,9): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\UserHome\source\repos\oop_laba6\oop_laba6\MultiTypeContainer.h(63,9): warning C4984: 'if constexpr' is a C++17 language extension
+  oop_laba6.cpp
+C:\Users\UserHome\source\repos\oop_laba6\oop_laba6\MultiTypeContainer.h(43,9): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\UserHome\source\repos\oop_laba6\oop_laba6\MultiTypeContainer.h(53,9): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\UserHome\source\repos\oop_laba6\oop_laba6\MultiTypeContainer.h(63,9): warning C4984: 'if constexpr' is a C++17 language extension
+  Generating Code...
+  oop_laba6.vcxproj -> C:\Users\UserHome\source\repos\oop_laba6\x64\Debug\oop_laba6.exe
